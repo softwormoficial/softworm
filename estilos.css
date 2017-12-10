@@ -1,0 +1,38 @@
+body {font-family: arial, verdana; color: #eee; margin: 0px; font-weight: bold; background: url(../img/fondo.png); background-repeat: repeat-x; background-color: f9f9f9; background-attachment: fixed;}
+table, td, tr {padding: 0px; margin: 0px; border-collapse: collapse; border-spacing; 0px;}
+a {text-decoration: none; font-weight: bold; color: #9f9f9f;}
+a:hover {color: #ffffff; text-shadow: 0px 0px 2px #ffffff}
+#bsub {color: #d7df01;}
+#bsub:hover {color: #f3f781;}
+#titulo {font-size: 20px;}
+#subtitulo {font-size: 16px;}
+#texto {font-size: 12px;}
+#opcion {opacity:0.5; color: #aaa; background: url(../img/fondot.png); border: 1px #fff solid; border-radius: 8px 8px 8px 8px; padding: 0px 4px; font-size: 20px;}
+#opcion:hover {opacity:1.0; color: #fff; text-shadow: 0px 0px 2px #aaa;}
+.bh {height: 100%; width: 800px; background: url(../img/fondot.png); border: 1px #fff solid; padding-top: 5px; font-weight: bold; box-shadow: 5px 0px 6px #000;}
+.boton {height: 20px; width: 100px; background-color: #222; font-size: 14px; color: #ffffff; border: 1px #000 solid; border-radius: 5px;}
+.boton:hover {height: 20px; width: 100px; background-color: #444; font-size: 14px; color: #01a9db; border: 1px #000 solid; border-radius: 5px; box-shadow: 0px 0px 4px #fff;}
+.imagenlink {opacity:0.5;}
+.imagenlink:hover {opacity:1.0;}
+.seleccion {padding: 0px 4px; background-color: #ffffff; border-radius: 5px; box-shadow: 0px 0px 10px #fff;}
+.titulo {width: 600px; height: 40px; background: url(../img/titulo.png); margin: 0px auto;}
+.titulozalgo {width: 600px; height: 40px; background: url(../img/titulo-zalgo.png); margin: 0px auto;}
+.cajacomentar {width: 700px; height: 30px; background-color: #222; font-size: 14px; color: #086a87; border: 1px #000 solid;}
+.tcontenido{color: #000; text-shadow: 0px 0px 1px #fff; text-align: center; padding-top: 9px;}
+.tcontenido a {color: #000; text-shadow: 0px 0px 1px #fff;}
+.tcontenido a:hover {text-shadow: 0px 0px 5px #fff;}
+.comentarios {width: 140px; height: 200px; background-color: #222; font-size: 12px; color: #086a87; border: 1px #000 solid;}
+.entradas {background: url(../img/fondot.png); border-radius: 5px; box-shadow: 0px 0px 3px #fff; width: 180px; text-align: center; margin: 12px; float: left; padding: 5px; height: 240px;}
+.entradas:hover {box-shadow: 0px 0px 10px #fff;}
+
+.sepentradas {clear: both; text-align: center;}
+.imgtitulo {vertical-align: -5px;  height: 23px;}
+.imgentrada {height: 100px; width: 180px; vertical-align: -90px;}
+.video {background: url(../img/fondot.png); border-radius: 5px; box-shadow: 0px 0px 3px #fff; width: 600px; margin: 0px auto; padding: 5px;}
+.video:hover {box-shadow: 0px 0px 10px #fff;}
+.codigofuente {background: url(../img/fondot.png); border-radius: 5px; box-shadow: 0px 0px 3px #fff; width: 600px; margin: 0px auto; padding: 5px; text-align: left; font-size: 12px;}
+.cuadro {background: url(../img/fondot.png); border-radius: 5px; box-shadow: 0px 0px 3px #fff; width: 600px; margin: 0px auto; padding: 5px; text-align: left;}
+.comentarios {overflow-y: auto; width: 700px; height: 300px;}
+.colores {font-size: 9px;}
+.inicio {text-shadow: 0px 0px 5px #000; border-radius: 5px;}
+.btitulo {font-shadow: 0px 0px 2px #000; height: 120px; width: 800px;}
