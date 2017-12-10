@@ -54,7 +54,7 @@
 				<hr>
 				<div style="float: right">
 					Contacto: softwormgames@gmail.com&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="https://www.youtube.com/channel/UCR3bQ9ju6_nRvamqzUjI7bQ?view_as=subscriber" target="_blank"><img height="30" src="img/youtube.png" class="imagenlink"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="https://www.youtube.com/c/Softworm" target="_blank"><img height="30" src="img/youtube.png" class="imagenlink"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="http://facebook.com/SoftWormOficial" target="_blank"><img height="30" src="img/facebook.png" class="imagenlink"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 				</div>
 				<div style="crear: both;"></div>
