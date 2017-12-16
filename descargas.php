@@ -5,11 +5,11 @@
 										</div><hr>
 										<script language="javascript">
 											function mostrar(){
-												document.getElementById(idp).innerHTML='<hr><iframe width="560" height="315" src="' + pag + '" frameborder="0" allowfullscreen></iframe>';
+												document.getElementById(idp).innerHTML='<hr><a href="piedra-papel-o-tijera-by-softworm.rar"><div class="entradas"><img src="img/prev/ppt1.png" class="imgentrada">Descargar<hr><font id="texto">Unica version, sin cambios</font></div></a> <div style="clear: both"></div>';
 											}
 										</script>
 										<a name="001"></a>
-										<a href="javascript:var idp = '001'; var pag = 'descargas/001.php'; mostrar();">
+										<a href="javascript:var idp = '001'; mostrar();">
 											<div class="video">
 												<center>
 													<font id="subtitulo">Piedra papel o tijera</font>
