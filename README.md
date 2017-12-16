@@ -1,2 +1,0 @@
-# softworm
-isMyWeb
